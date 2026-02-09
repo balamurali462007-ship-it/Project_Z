@@ -1,3 +1,4 @@
+![Project Thumbnail](Project Z Thumbnail.png)
 # Project Z  
 ### Protecting trust in the age of AI
 
